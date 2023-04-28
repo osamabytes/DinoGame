@@ -1,0 +1,2 @@
+# The code is copied from codefromharry youtube, in order to understand how the game works. The code is not written by me. 
+## https://www.youtube.com/watch?v=_OHRerLS4dI&list=PLbcFA8hbWeMCpA4mpRVbrhUDAnEuQNbi7&index=9
